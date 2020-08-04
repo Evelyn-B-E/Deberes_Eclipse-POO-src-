@@ -47,9 +47,5 @@ paquete  deberjerarquia ;
 
     public  double  getCedula () {
         volver cedula;
-    }
-
-    
-    
-    
+    }  
 }
